@@ -1,6 +1,6 @@
 - 👋 Hi there! I’m @laurstevenson from Ottawa, ON. 
 - 👀 I’m interested in education, instructional design, product, and web development
-- 🌱 I’m currently learning React & JS, and forever learning css tricks :)
+- 🌱 I’m currently learning React, JS, and forever CSS tricks :)
 - 📫 for any feedback, please contact me @ laura.c.stevenson@gmail.com
 
 <!---
